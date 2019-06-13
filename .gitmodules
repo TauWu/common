@@ -1,3 +1,6 @@
-[submodule "python"]
+[submodule "common-py"]
 	path = python
 	url = git@github.com:TauWu/common-py.git
+[submodule "common-go"]
+	path = golang
+	url = git@github.com:TauWu/common-go.git
